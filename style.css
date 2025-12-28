@@ -752,4 +752,8 @@ button {
 .logo-text .tagline {
     margin-top: 0;
 }
+
+.logo-icon-bg {
+    background-image: url('images/grust.png');
+}
 }
